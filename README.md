@@ -1,1 +1,1 @@
-# .github
+# Организация SoulMC Team
